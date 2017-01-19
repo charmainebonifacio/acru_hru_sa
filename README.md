@@ -2,9 +2,9 @@
 
 The ACRU-HRU Delineation Standalone Tool was developed to automate the delineation of hydrological response units (HRU) for the ACRU (v336) model, independent of the ArcGIS for Desktop. The creation of HRU is a key step in utilizing ACRU in a distributed mode. Spatial data are pre-processed according to the user’s specification for a particular watershed. Essentially, the tool allows the user to automatically delineate the HRU using ArcPY modules available in ArcGIS for Desktop.
 
-Step 1. The ACRU-HRU Delineation Standalone Tool
-Step 2. Polygon Dissolve Tool
-Step 3. Parse HRU Unique Identifier Tool
+- Step 1. The ACRU-HRU Delineation Standalone Tool
+- Step 2. Polygon Dissolve Tool
+- Step 3. Parse HRU Unique Identifier Tool
 
 ## License
 
